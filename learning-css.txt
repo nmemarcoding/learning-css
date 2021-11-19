@@ -1,0 +1,11 @@
+// fixing page not be more than screen size 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+display: inline; // make list -------
+
+float:right; // shift item to right
+
