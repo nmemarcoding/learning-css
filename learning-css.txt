@@ -14,3 +14,8 @@ background-position: center;
 
 //box
 border: solid 3px #024e76;
+
+// moving element
+position: absolute;
+    bottom: 0px;
+    right: 0px;
