@@ -20,3 +20,10 @@ position: absolute;
     bottom: 0px;
     right: 0px;
 for that we have to add possion: relative; to main div
+
+// put each elemt in line 
+display:block;
+
+// for fixing float left
+add overflow: auto; to parent class
+
