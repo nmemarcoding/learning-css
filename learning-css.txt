@@ -11,3 +11,6 @@ float:right; // shift item to right
 
 background-size: cover;
 background-position: center;
+
+//box
+border: solid 3px #024e76;
