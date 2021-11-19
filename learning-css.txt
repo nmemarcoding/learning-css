@@ -9,3 +9,4 @@ display: inline; // make list -------
 
 float:right; // shift item to right
 
+background-size: cover;
