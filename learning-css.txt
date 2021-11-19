@@ -19,3 +19,4 @@ border: solid 3px #024e76;
 position: absolute;
     bottom: 0px;
     right: 0px;
+for that we have to add possion: relative; to main div
