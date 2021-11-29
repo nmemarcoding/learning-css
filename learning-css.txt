@@ -27,3 +27,11 @@ display:block;
 // for fixing float left
 add overflow: auto; to parent class
 
+// making header sticky
+
+position: -webkit-sticky;
+position: sticky;
+top: 0;
+
+
+
